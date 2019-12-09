@@ -58,13 +58,19 @@ csrf:
 
 Related
 ===========
+- [Light_CsrfSession plugin](https://github.com/lingtalfi/Light_CsrfSession) (preferred because simpler to develop with)
 - [Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple), a simpler csrf protection plugin
+- [CsrfTools](https://github.com/lingtalfi/CSRFTools), some csrf related tools
 
 
 
 History Log
 =============
 
+- 1.0.2 -- 2019-12-09
+
+    - update Related section in README.md
+    
 - 1.0.1 -- 2019-11-07
 
     - add Related section in README.md
